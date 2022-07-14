@@ -33,7 +33,6 @@ p{
 button{
     display: block;
     margin: auto;
-    margin-top: 15px;
 }
 
 .btn {
@@ -56,6 +55,7 @@ button{
 
 .lco{
     transition: box-shadow 300ms ease-in-out,color 300ms ease-in-out;
+    margin-top: 15px;
 }
 
 .lco:hover{
